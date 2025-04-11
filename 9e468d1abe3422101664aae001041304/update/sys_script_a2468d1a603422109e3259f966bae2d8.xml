@@ -34,14 +34,16 @@
         <script><![CDATA[(function executeRule(current, previous /*null when async*/ ) {
     gs.addErrorMessage(gs.getMessage("Invalid notification reminder data, please check the reminder date!!"));
     current.setAbortAction(true);
-})(current, previous);]]></script>
+})(current, previous);
+
+//this is testing line]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-04-11 08:30:42</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a2468d1a603422109e3259f966bae2d8</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Lock updating when past reminder date</sys_name>
         <sys_overrides/>
         <sys_package display_value="Tracking system" source="x_1021112_tracki_0">9e468d1abe3422101664aae001041304</sys_package>
@@ -49,9 +51,20 @@
         <sys_scope display_value="Tracking system">9e468d1abe3422101664aae001041304</sys_scope>
         <sys_update_name>sys_script_a2468d1a603422109e3259f966bae2d8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-04-11 08:30:42</sys_updated_on>
+        <sys_updated_on>2025-04-11 08:39:32</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
     <sys_translated_text action="delete_multiple" query="documentkey=a2468d1a603422109e3259f966bae2d8"/>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>a2468d1a603422109e3259f966bae2d8</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-11 08:39:31</sys_created_on>
+        <sys_id>6658815e8334221087299d60ceaad39f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-11 08:39:31</sys_updated_on>
+        <table>sys_script</table>
+        <use_es_latest>false</use_es_latest>
+    </sys_es_latest_script>
 </record_update>
