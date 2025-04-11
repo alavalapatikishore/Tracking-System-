@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_1021112_tracki_0_relationship_contact_reminders</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="">046844810f416010e3a6120ba4767e5a</embedded_screen>
+        <item_view/>
+        <name>List of Reminders for a contact Main Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-11 08:30:51</sys_created_on>
+        <sys_id>ae468d1a0e342210c0fdc5b1d89b1dae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>List of Reminders for a contact Main Item</sys_name>
+        <sys_package display_value="Tracking system" source="x_1021112_tracki_0">9e468d1abe3422101664aae001041304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tracking system">9e468d1abe3422101664aae001041304</sys_scope>
+        <sys_update_name>sys_sg_master_item_ae468d1a0e342210c0fdc5b1d89b1dae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-11 08:30:51</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="List of Reminders for a contact View Config">6a468d1ae13422107ae22796de2e507e</view_config>
+    </sys_sg_master_item>
+</record_update>

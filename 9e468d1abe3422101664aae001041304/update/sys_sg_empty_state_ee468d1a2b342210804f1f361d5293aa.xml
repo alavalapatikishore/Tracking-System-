@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_empty_state">
+    <sys_sg_empty_state action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>Notes Empty State</name>
+        <sys_class_name>sys_sg_empty_state</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-11 08:30:57</sys_created_on>
+        <sys_id>ee468d1a2b342210804f1f361d5293aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Notes Empty State</sys_name>
+        <sys_package display_value="Tracking system" source="x_1021112_tracki_0">9e468d1abe3422101664aae001041304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tracking system">9e468d1abe3422101664aae001041304</sys_scope>
+        <sys_update_name>sys_sg_empty_state_ee468d1a2b342210804f1f361d5293aa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-11 08:30:57</sys_updated_on>
+        <view_config display_value="Empty State Notes">a2468d1adf3422104dda3360004469ab</view_config>
+    </sys_sg_empty_state>
+    <sys_translated_text action="delete_multiple" query="documentkey=ee468d1a2b342210804f1f361d5293aa"/>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template_slot">
+    <sys_sg_view_template_slot action="INSERT_OR_UPDATE">
+        <name>b9221459-d5c4-004d-0d11-182a48ff948c</name>
+        <sys_class_name>sys_sg_view_template_slot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-11 08:30:59</sys_created_on>
+        <sys_id>66468d1a2b34221095248a461c03a36d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b9221459-d5c4-004d-0d11-182a48ff948c</sys_name>
+        <sys_package display_value="Tracking system" source="x_1021112_tracki_0">9e468d1abe3422101664aae001041304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tracking system">9e468d1abe3422101664aae001041304</sys_scope>
+        <sys_update_name>sys_sg_view_template_slot_66468d1a2b34221095248a461c03a36d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-11 08:30:59</sys_updated_on>
+        <type>text</type>
+        <view_template display_value="Contact Header">62468d1a8634221071dc1322da5f2974</view_template>
+    </sys_sg_view_template_slot>
+</record_update>

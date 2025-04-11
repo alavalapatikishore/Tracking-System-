@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Team Contacts Business phone">6e468d1a43342210fab7e8bd641d49bb</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name>contact_name.phone</field_name>
+        <icon/>
+        <label/>
+        <location>field</location>
+        <name/>
+        <order>20</order>
+        <parent>a2468d1abe342210fc6dcfdfba3b67b1</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-11 08:30:53</sys_created_on>
+        <sys_id>a2468d1ac4342210d180f8511af486ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tracking system" source="x_1021112_tracki_0">9e468d1abe3422101664aae001041304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tracking system">9e468d1abe3422101664aae001041304</sys_scope>
+        <sys_update_name>sys_sg_button_instance_a2468d1ac4342210d180f8511af486ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-11 08:30:53</sys_updated_on>
+        <table>x_1021112_tracki_0_relationship_contact</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=a2468d1ac4342210d180f8511af486ae"/>
+</record_update>

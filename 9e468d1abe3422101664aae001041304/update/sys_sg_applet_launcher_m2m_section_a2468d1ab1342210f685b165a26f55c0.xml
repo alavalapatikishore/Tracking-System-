@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Tracking system">6e468d1ae53422101d4319c45c2fe1be</applet_launcher>
+        <order>30</order>
+        <section display_value="My Direct Reports">6a468d1af43422103dbdeeae62aa83bf</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-11 08:31:07</sys_created_on>
+        <sys_id>a2468d1ab1342210f685b165a26f55c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tracking system" source="x_1021112_tracki_0">9e468d1abe3422101664aae001041304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tracking system">9e468d1abe3422101664aae001041304</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_a2468d1ab1342210f685b165a26f55c0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-11 08:31:07</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_facet">
+    <sys_search_facet action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_facet_name>sys_user.department</ais_facet_name>
+        <label>Department</label>
+        <name>Department</name>
+        <option_limit>10</option_limit>
+        <order>100</order>
+        <search_context_config display_value="Team Contact Search Configuration">e646cd1a04342210106b9826b38aa920</search_context_config>
+        <sys_class_name>sys_search_facet</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-11 08:30:51</sys_created_on>
+        <sys_id>e2468d1a8134221052c03dc982dd1bd7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_user.department</sys_name>
+        <sys_package display_value="Tracking system" source="x_1021112_tracki_0">9e468d1abe3422101664aae001041304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tracking system">9e468d1abe3422101664aae001041304</sys_scope>
+        <sys_update_name>sys_search_facet_e2468d1a8134221052c03dc982dd1bd7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-11 08:30:51</sys_updated_on>
+        <type/>
+    </sys_search_facet>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_push_notification">
+    <sys_sg_push_notification action="INSERT_OR_UPDATE">
+        <actionable>false</actionable>
+        <category/>
+        <name>Team Contacts Reminder</name>
+        <screen display_value="Saved Employees">ae468d1a5e342210b11c399f8bbe39b7</screen>
+        <sys_class_name>sys_sg_push_notification</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-11 08:31:03</sys_created_on>
+        <sys_id>ea468d1ad5342210d61dc1c08afdf47c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Team Contacts Reminder</sys_name>
+        <sys_package display_value="Tracking system" source="x_1021112_tracki_0">9e468d1abe3422101664aae001041304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tracking system">9e468d1abe3422101664aae001041304</sys_scope>
+        <sys_update_name>sys_sg_push_notification_ea468d1ad5342210d61dc1c08afdf47c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-11 08:31:03</sys_updated_on>
+    </sys_sg_push_notification>
+</record_update>

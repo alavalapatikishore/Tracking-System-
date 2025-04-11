@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>custom_MCB_view_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-11 08:30:54</sys_created_on>
+        <sys_id>ea468d1ac23422109129d47df637886d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>custom_MCB_view_element</sys_name>
+        <sys_package display_value="Tracking system" source="x_1021112_tracki_0">9e468d1abe3422101664aae001041304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tracking system">9e468d1abe3422101664aae001041304</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_ea468d1ac23422109129d47df637886d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-11 08:30:54</sys_updated_on>
+        <view_config display_value="My Teammates View Config">e6468d1af33422100342847a77d9927d</view_config>
+        <view_template_slot display_value="">cbacfe9441e71010f877183fc9b8beb6</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

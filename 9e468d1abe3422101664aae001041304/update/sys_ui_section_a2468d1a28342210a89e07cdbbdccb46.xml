@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="a2468d1a28342210a89e07cdbbdccb46" sys_domain="global" table="x_1021112_tracki_0_relationship_contact_reminders" version="3" view="portal">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contact</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-11 08:30:43</sys_created_on>
+            <sys_id>2a468d1a2034221096f8fde180419a46</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1021112_tracki_0_relationship_contact_reminders" sys_domain="global" view="8d8fc360dc1212104f34465061b06a5b">a2468d1a28342210a89e07cdbbdccb46</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-11 08:30:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>note_date</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-11 08:30:43</sys_created_on>
+            <sys_id>ae468d1a5d3422108d9c0ac6cf123b46</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1021112_tracki_0_relationship_contact_reminders" sys_domain="global" view="8d8fc360dc1212104f34465061b06a5b">a2468d1a28342210a89e07cdbbdccb46</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-11 08:30:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-11 08:30:43</sys_created_on>
+            <sys_id>26468d1adc34221070c2dce00d791847</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1021112_tracki_0_relationship_contact_reminders" sys_domain="global" view="8d8fc360dc1212104f34465061b06a5b">a2468d1a28342210a89e07cdbbdccb46</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-11 08:30:43</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>note_subject</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-11 08:30:43</sys_created_on>
+            <sys_id>6e468d1a0b3422103962d98ea21df447</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1021112_tracki_0_relationship_contact_reminders" sys_domain="global" view="8d8fc360dc1212104f34465061b06a5b">a2468d1a28342210a89e07cdbbdccb46</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-11 08:30:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1021112_tracki_0_relationship_contact_reminders</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-11 08:30:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a2468d1a28342210a89e07cdbbdccb46</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1021112_tracki_0_relationship_contact_reminders</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Tracking system" source="x_1021112_tracki_0">9e468d1abe3422101664aae001041304</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Tracking system">9e468d1abe3422101664aae001041304</sys_scope>
+            <sys_update_name>sys_ui_section_a2468d1a28342210a89e07cdbbdccb46</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-11 08:30:43</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Portal" name="portal">8d8fc360dc1212104f34465061b06a5b</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
