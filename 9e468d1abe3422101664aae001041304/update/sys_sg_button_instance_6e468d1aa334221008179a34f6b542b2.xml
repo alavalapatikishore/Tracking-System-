@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Add Reminder">ea468d1a013422109dd6a44755829bc9</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Add Reminder</label>
+        <location>top</location>
+        <name>Add Reminder</name>
+        <order>20</order>
+        <parent>ae468d1a5e342210b11c399f8bbe39b7</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-11 08:31:06</sys_created_on>
+        <sys_id>6e468d1aa334221008179a34f6b542b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Add Reminder</sys_name>
+        <sys_package display_value="Tracking system" source="x_1021112_tracki_0">9e468d1abe3422101664aae001041304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tracking system">9e468d1abe3422101664aae001041304</sys_scope>
+        <sys_update_name>sys_sg_button_instance_6e468d1aa334221008179a34f6b542b2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-11 08:31:06</sys_updated_on>
+        <table>x_1021112_tracki_0_relationship_contact</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=6e468d1aa334221008179a34f6b542b2"/>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template_slot">
+    <sys_sg_view_template_slot action="INSERT_OR_UPDATE">
+        <name>2f9b733a-bf21-5c24-519b-ba75a71b835e</name>
+        <sys_class_name>sys_sg_view_template_slot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-11 08:31:08</sys_created_on>
+        <sys_id>aa468d1af434221014d180c09f5fa453</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2f9b733a-bf21-5c24-519b-ba75a71b835e</sys_name>
+        <sys_package display_value="Tracking system" source="x_1021112_tracki_0">9e468d1abe3422101664aae001041304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tracking system">9e468d1abe3422101664aae001041304</sys_scope>
+        <sys_update_name>sys_sg_view_template_slot_aa468d1af434221014d180c09f5fa453</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-11 08:31:08</sys_updated_on>
+        <type>Text</type>
+        <view_template display_value="Team contacts template">6a468d1a0f342210e5370222e3eebc54</view_template>
+    </sys_sg_view_template_slot>
+</record_update>

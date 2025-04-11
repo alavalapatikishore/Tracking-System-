@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>custom_MCB_view_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-11 08:30:43</sys_created_on>
+        <sys_id>6e468d1a21342210a949552931d1d06b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>custom_MCB_view_element</sys_name>
+        <sys_package display_value="Tracking system" source="x_1021112_tracki_0">9e468d1abe3422101664aae001041304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tracking system">9e468d1abe3422101664aae001041304</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_6e468d1a21342210a949552931d1d06b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-11 08:30:43</sys_updated_on>
+        <view_config display_value="Notes - Relationship Table View Config">6e468d1aab34221040e770f876c6987d</view_config>
+        <view_template_slot display_value="8bfa840f-6b82-7110-88df-6d12c713cfaf">e6468d1a28342210547231e9672fa46b</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

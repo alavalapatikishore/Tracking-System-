@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>sys_user</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="My Direct Reports">a6468d1a1d342210d26f4dd2e98bdfb3</embedded_screen>
+        <item_view/>
+        <name>My Direct Reports Main Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-11 08:31:00</sys_created_on>
+        <sys_id>e2468d1aba3422101097cd831ebbd387</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Direct Reports Main Item</sys_name>
+        <sys_package display_value="Tracking system" source="x_1021112_tracki_0">9e468d1abe3422101664aae001041304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tracking system">9e468d1abe3422101664aae001041304</sys_scope>
+        <sys_update_name>sys_sg_master_item_e2468d1aba3422101097cd831ebbd387</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-11 08:31:00</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="My Direct Reports View Config">22468d1aa43422100feb7b75617e2f7e</view_config>
+    </sys_sg_master_item>
+</record_update>

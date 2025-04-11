@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="My Teammates">e6468d1a053422101c1dd41a2eeb63ac</data_item>
+        <interleaved_field/>
+        <name>My Teammates Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-11 08:31:00</sys_created_on>
+        <sys_id>62468d1aef3422105d5cc85b0d09dc86</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Teammates Item Stream</sys_name>
+        <sys_package display_value="Tracking system" source="x_1021112_tracki_0">9e468d1abe3422101664aae001041304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tracking system">9e468d1abe3422101664aae001041304</sys_scope>
+        <sys_update_name>sys_sg_item_stream_62468d1aef3422105d5cc85b0d09dc86</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-11 08:31:00</sys_updated_on>
+        <table>sys_user</table>
+    </sys_sg_item_stream>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Tracking system">6e468d1ae53422101d4319c45c2fe1be</applet_launcher>
+        <order>10</order>
+        <section display_value="Saved Employees">ea468d1af33422106b5fc080764d8ebd</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-11 08:30:40</sys_created_on>
+        <sys_id>62468d1ade342210806680392c6244be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Tracking system" source="x_1021112_tracki_0">9e468d1abe3422101664aae001041304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tracking system">9e468d1abe3422101664aae001041304</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_62468d1ade342210806680392c6244be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-11 08:30:40</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

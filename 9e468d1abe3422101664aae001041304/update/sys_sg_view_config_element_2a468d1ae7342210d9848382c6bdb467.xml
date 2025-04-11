@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>custom_MCB_view_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-11 08:30:38</sys_created_on>
+        <sys_id>2a468d1ae7342210d9848382c6bdb467</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>custom_MCB_view_element</sys_name>
+        <sys_package display_value="Tracking system" source="x_1021112_tracki_0">9e468d1abe3422101664aae001041304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tracking system">9e468d1abe3422101664aae001041304</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_2a468d1ae7342210d9848382c6bdb467</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-11 08:30:38</sys_updated_on>
+        <view_config display_value="List of Reminders for a contact View Config">6a468d1ae13422107ae22796de2e507e</view_config>
+        <view_template_slot display_value="e1e4cc5f-82e3-2547-5131-253dc6f2b953">26468d1a023422106c3d1a7fa2519471</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

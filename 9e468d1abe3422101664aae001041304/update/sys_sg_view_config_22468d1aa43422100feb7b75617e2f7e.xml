@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config">
+    <sys_sg_view_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <description/>
+        <name>My Direct Reports View Config</name>
+        <scratchpad_script/>
+        <sys_class_name>sys_sg_view_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-11 08:30:45</sys_created_on>
+        <sys_id>22468d1aa43422100feb7b75617e2f7e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Direct Reports View Config</sys_name>
+        <sys_package display_value="Tracking system" source="x_1021112_tracki_0">9e468d1abe3422101664aae001041304</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tracking system">9e468d1abe3422101664aae001041304</sys_scope>
+        <sys_update_name>sys_sg_view_config_22468d1aa43422100feb7b75617e2f7e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-11 08:30:45</sys_updated_on>
+        <table>sys_user</table>
+        <template display_value="Template 04">60de27930f202010e70a4abec4767ebe</template>
+    </sys_sg_view_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=22468d1aa43422100feb7b75617e2f7e"/>
+</record_update>

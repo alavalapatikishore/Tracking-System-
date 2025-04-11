@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5346cd1a8334221087299d60ceaad379" label="Reminder" max_length="40" name="x_1021112_tracki_0_relationship_contact_reminders" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Subject (max 40 characters)" mandatory="true" max_length="40" name="note_subject" type="string"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" display="true" label="Contact" mandatory="true" max_length="32" name="contact" reference="x_1021112_tracki_0_relationship_contact" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Date to remind me" mandatory="true" max_length="40" name="note_date" type="glide_date_time"/>
+        <index name="index">
+            <element name="contact"/>
+        </index>
+    </element>
+</database>
